@@ -39,6 +39,11 @@ table {
   }
 }
 
+.blkfont {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2em;
+}
+
 .rfont {color: red;}
 .gfont {color: green;}
 .bfont {color: blue;}
